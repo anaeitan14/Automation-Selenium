@@ -21,6 +21,9 @@ public class L07_Alerts {
 		Thread.sleep(5000);
 		
 		driver.switchTo().alert().accept();
+		
+		
+//		This comment was added my my laptop
 
 	}
 
