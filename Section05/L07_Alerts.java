@@ -22,7 +22,7 @@ public class L07_Alerts {
 		
 		driver.switchTo().alert().accept();
 		
-//		This comment was added by my laptop
+//		This comment was added by my desktop
 //		This comment was added my my laptop
 
 	}
